@@ -1,4 +1,4 @@
-# My Custom Conky Widget
+# Conky Widget for monitoring PC and bus arrivals
 
 This repository contains a custom Conky widget designed for Linux desktops, providing real-time system information and live bus arrival data for Transport for London (TfL) bus stops.
 
